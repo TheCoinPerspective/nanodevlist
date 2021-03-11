@@ -1,0 +1,16 @@
+{
+  "name": "The Coin Perspective",
+  "github": "TheCoinPerspective",
+  "twitter": "CoinPerspective", 
+  "nano_account": "nano_1p9584obbpqbo9gwa3japi5sg63jnwk8wnkpmkbch7nepbccntfkwipw758a",
+  "sponsor_link": "https://thecoinperspective.com",
+  "avatar": "https://i.imgur.com/qKrJG3e.png",
+  "description": "[The Coin Perspective](https://thecoinperspective.com) is a free market research tool for the crypto community. It was born on the /r/nanocurrency subreddit in Feb 2021 to help show how undervalued Nano was (and still is!). The site has become increasingly popular since then."
+  "tags": [
+    "Investing",
+    "Research",
+    "CryptoCurrency",
+    "Markets",
+    "Education"
+  ]
+}
